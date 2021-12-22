@@ -97,7 +97,5 @@ class Keranjang extends CI_Controller
         redirect('keranjang');
     }
 
-    public function proses_checkout()
-    {
-    }
+
 }
